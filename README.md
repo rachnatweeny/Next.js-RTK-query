@@ -1,2 +1,2 @@
 # Next.js-RTK-query
-Intial set up for RTK query
+Initial set up for RTK query
